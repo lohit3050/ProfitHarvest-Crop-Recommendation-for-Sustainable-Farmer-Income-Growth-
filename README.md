@@ -14,4 +14,5 @@ For the price prediction, we used a deep learning model called the Long Short-Te
 For the crop recommendation model, we used a soil analysis dataset containing eight features: Nitrogen, Phosphorus, Potassium, Rainfall, pH, Humidity, Temperature, and Crop.
 <br>
 For the price prediction model, we used historical crop price data, which provided insights into market trends and helped analyze the price patterns of crops.
+<br>
 we have used "www.commodityonline.com" for collecting the price dataset.
