@@ -23,5 +23,7 @@ Flask,pandas,numpy,scikit-learn,tensorflow
 <br>
 <h3>Authors</h3>
 Divitha Kola - https://www.github.com/DivithaKola
+<br>
 Lohit Kokkirigedda - https://www.github.com/lohit3050
+<br>
 Srinadh Cheekati - https://www.github.com/srinadhcheekati
