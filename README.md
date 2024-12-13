@@ -20,3 +20,8 @@ we have used "www.commodityonline.com" for collecting the price dataset.
 Clone the repository, update the file paths in the app.py file as needed, and execute the code.
 <h3>Requirements</h3>
 Flask,pandas,numpy,scikit-learn,tensorflow
+<br>
+<h3>Authors</h3>
+Divitha Kola - https://www.github.com/DivithaKola
+Lohit Kokkirigedda - https://www.github.com/lohit3050
+Srinadh Cheekati - https://www.github.com/srinadhcheekati
