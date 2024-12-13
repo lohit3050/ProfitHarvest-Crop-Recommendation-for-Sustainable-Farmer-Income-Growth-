@@ -1,6 +1,5 @@
 # ProfitHarvest-Crop-Recommendation-for-Sustainable-Farmer-Income-Growth-
 <h3>workflow of the project</h3>
-<br>
 recommendation of best 3 crops for the specific land by doing the soil test analysis and predicting their prices of that crops which results to take better decisions for the farmers to cultivate the crop in their land and get better yields
 <br>
 <h3>files</h3>
